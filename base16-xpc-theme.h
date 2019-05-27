@@ -13,7 +13,7 @@
 
 /* Terminal colors (16 first used in escape sequence) */
 static const char *colorname[] = {
-  "#393939",
+  "#2d2d2d",
   "#d68787",
   "#5f865f",
   "#d8af5f",
